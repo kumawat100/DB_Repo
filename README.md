@@ -1,7 +1,5 @@
-# DB_Repo
-
-DB Trade Store
---------------
+# DB Trade Store
+----------------
 
 Trades flow to TradeStore with a structure as of Trade.java.
 Trade gets added to a HashMap after some validations and only if the trade is a valid one.
